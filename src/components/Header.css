@@ -1,0 +1,21 @@
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    background-color: white;
+    width: 100vw;
+    /* border-bottom: 10px solid rgba(128, 128, 128, 0.1); */
+}
+.boder-bot{
+    border-bottom: 3px solid black;
+}
+.logodiv{
+    display: inline-block;
+    position: relative;
+}
+.tm{
+    position: relative;
+    top: 0;
+    right: 0;
+}
